@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241946134230",
+    "project_id": "ubermenshc-f7ead",
+    "storage_bucket": "ubermenshc-f7ead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241946134230:android:f76370090bbdfed810ab77",
+        "android_client_info": {
+          "package_name": "com.northwolf.ubermenshc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241946134230-o2tf5q7pul7n91l9rcr2pev4kqc9pt04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsty5WHNn1DTys3QeamG4RIQ2CCttBb4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241946134230-o2tf5q7pul7n91l9rcr2pev4kqc9pt04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
