@@ -5,7 +5,6 @@ import 'package:ubermenshc/firebase_options.dart';
 import 'package:ubermenshc/views/login_view.dart';
 import 'package:ubermenshc/views/register_view.dart';
 import 'package:ubermenshc/views/verify_email_view.dart';
-import 'dart:developer' as devtools show log;
 
 // Übermensch
 Future<void> main() async {
@@ -25,6 +24,7 @@ Future<void> main() async {
       routes: {
         '/login/': (context) => const LoginView(),
         '/register/': (context) => const RegisterView(),
+        '/notes/': (context) => const NotesView(),
       },
     ),
   );
